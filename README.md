@@ -1,6 +1,5 @@
 # json-meter-serialization
 Embedded C library for JSON serialization of smart meter data
-# JSON Serialization Library for Embedded Firmware
 
 ## Project Overview
 
